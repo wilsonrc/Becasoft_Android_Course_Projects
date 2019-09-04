@@ -1,6 +1,6 @@
 # Android Course Final Projects (BECASOFT)
 
-This repo contains a list of projects made by the students of the BECASOFT android introductory course.
+This repo contains a list of some projects made by the students of the BECASOFT android introductory course.
 
 ### Projects:
 
