@@ -2,7 +2,7 @@
 
 This repo contains a list of projects made by the students of the BECASOFT android introductory course.
 
-### Students:
+### Projects:
 
 - [Luis Sierra](https://github.com/luisalbertosierraalcantara/J2MEGameCenter) J2ME Applications Emulator.
 - [Ivan Zorrilla](https://github.com/Zormat/Final_diplomado) Pokedex.
