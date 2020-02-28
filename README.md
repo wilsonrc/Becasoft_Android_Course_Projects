@@ -16,3 +16,5 @@ This repo contains a list of some projects made by the students of the BECASOFT 
 - [Leandro Leonardo](https://github.com/lleonardo07/ANDROID--DiplomadoMESCyT) MESCyT App.
 - [Ramon Agustin Castillo](https://github.com/ramon05/AnimeList) Anime List.
 - [Victor Adrian](https://github.com/vitolrosario/BookManagerApp) Book Manager.
+- [Bernardino Reyes](https://github.com/BernardinoReyes/Diplomado_Peliculas_kotlin) Movies App with Kotlin
+
